@@ -280,6 +280,6 @@ Or you can get the value directly like this:
 sketch.listAttributes().Draws.Saved; // 60
 ```
 
-### License
+## License
 
 This library is published under the [MIT Licence](/LICENSE), happy coding 🎉.
