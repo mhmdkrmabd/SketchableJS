@@ -40,7 +40,6 @@ class Sketchable {
         color: givenOpt[3],
         type: givenOpt[4]
       };
-      console.log(givenOpt);
       this.backgroundColor = givenOpt[5];
     }
     this.canvas.width = this.width;
