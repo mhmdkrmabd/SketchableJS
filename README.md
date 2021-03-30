@@ -2,6 +2,7 @@
 <p align="center">
 Make your canvas sketchable with less than 3.9KB library!
   </p>
+<p align="center"><img src="demo.gif" width="auto" height="auto"/></p>
 
 ## Installation
 
@@ -280,6 +281,6 @@ Or you can get the value directly like this:
 sketch.listAttributes().Draws.Saved; // 60
 ```
 
-### License
+## License
 
 This library is published under the [MIT Licence](/LICENSE), happy coding 🎉.
