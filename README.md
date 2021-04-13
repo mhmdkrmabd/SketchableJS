@@ -35,6 +35,8 @@ var sketch = new Sketchable(canvas);
 
 Piece of cake 🎂!
 
+![](cheers.gif)
+
 ## Constructor Parameters
 
 The constructor takes two main parameters: the first one is the `canvas` element, which is a mandatory parameter, the other one is the `options`, and it's an optional.
