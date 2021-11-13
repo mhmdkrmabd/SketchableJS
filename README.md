@@ -17,7 +17,7 @@ After that step, include the library by using the `script` tag:
 Or, you can add this line at the very end of the library file:
 
 ```javascript
-Module.exports = Sketchable;
+module.exports = Sketchable;
 ```
 
 Then, import the library anywhere in your code:
